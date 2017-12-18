@@ -1,6 +1,6 @@
 # \<dile-timestamp-to-date\>
 
-Polymer component to show a date, in an appropriate format to human read, from a timestamp
+Polymer component to show a date, in an appropriate format to human read, from a timestamp.
 
 `<dile-timestamp-to-date>`
 
